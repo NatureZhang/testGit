@@ -1,0 +1,2 @@
+测试git commit —amend
+加了一行

@@ -1,3 +1,4 @@
 测试git commit —amend
 加了一行
 加了二行
+newfeature分支
